@@ -8,3 +8,6 @@ petapoco/obj/Debug/netstandard2.0/petapoco.csproj.CoreCompileInputs.cache
 petapoco/bin/Debug/netstandard2.0/petapoco.dll
 petapoco/bin/Debug/netstandard2.0/petapoco.pdb
 petapoco/bin/Debug/netstandard2.0/petapoco.deps.json
+petapoco/obj/Debug/netstandard2.0/petapoco.dll
+petapoco/obj/Debug/netstandard2.0/petapoco.pdb
+petapoco/obj/Debug/netstandard2.0/petapoco.csproj.FileListAbsolute.txt
